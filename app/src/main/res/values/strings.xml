@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherPractical</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_weather">Weather</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_network_unable">Network is unable</string>
+</resources>
